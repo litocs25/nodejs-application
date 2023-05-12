@@ -4,7 +4,7 @@
   "description": "This Project explains all Node JS examples",
   "main": "app.js",
   "publishConfig": {
-    "registry": "http://172.31.24.179:8081/repository/isaacag-project/"
+    "registry": "http://2.91.1.219:8081/repository/isaacag-project/"
   },
   "scripts": {
     "server": "http-server -c-1 -p 9999",
